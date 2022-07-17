@@ -1,6 +1,6 @@
 # dating
 
-A new Flutter project.
+Yalla is n online dating site 
 
 ## Getting Started
 
