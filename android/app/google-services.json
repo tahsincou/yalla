@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "792104674024",
+    "project_id": "yalla-d613f",
+    "storage_bucket": "yalla-d613f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792104674024:android:ae6fc16e5a73ad8af65f5d",
+        "android_client_info": {
+          "package_name": "com.example.dating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792104674024-3sucmhpg730d3pb5u3j7c0pnsqnsgogh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dating",
+            "certificate_hash": "eeebe06a824035f8150729808da1e5d8cd6710ae"
+          }
+        },
+        {
+          "client_id": "792104674024-o76022318emn3rfdfv2lloinmkaei172.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMa3wMRcdHOm20XFR3ExmOWiaWInQ44o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792104674024-o76022318emn3rfdfv2lloinmkaei172.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
